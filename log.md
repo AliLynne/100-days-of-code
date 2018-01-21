@@ -7,6 +7,6 @@
 
 **Thoughts:** I learned a lot about CSS grid and looks like it'll make responsive layouts better. 
 
-**Link to work:** 
+**Link to work:** https://twitter.com/alilynnet/status/955218431086702592
 
 
